@@ -48,9 +48,9 @@ I’m an **Agentic AI Developer** focused on building:
 
 ## 📫 Contact
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
+- **Email:** [malaika57680@gmail.com](mailto:your-email@example.com)  
+- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/malaika-zahid-developer)  
+- **GitHub:** [github.com/your-username](https://github.com/malaika75)
 
 ---
 
