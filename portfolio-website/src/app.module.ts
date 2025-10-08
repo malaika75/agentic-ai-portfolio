@@ -3,6 +3,7 @@ import { ServeStaticModule } from '@nestjs/serve-static';
 import { join } from 'path';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
+import { AiAssistantModule } from './ai-assistant/ai-assistant.module';
 
 @Module({
   imports: [
@@ -10,6 +11,7 @@ import { AppService } from './app.service';
       rootPath: join(__dirname, '..', 'public'),
       serveRoot: '/',
     }),
+    AiAssistantModule,
   ],
   controllers: [AppController],
   providers: [AppService],
