@@ -1,0 +1,51 @@
+I want you to create a **bright, vibrant, and professional portfolio website** using **NestJS for the backend** and **TailwindCSS for the frontend styling**. The website should include:
+
+1. **Homepage**:
+   - My name and a short tagline like “Agentic AI Developer | Multi-Agent Systems | Python & OpenAI SDK”
+   - Short introduction about me (skills, focus areas)
+   - Use **bright and modern colors** with Tailwind classes (buttons, headings, backgrounds)
+
+2. **Skills Section**:
+   - Python, OpenAI SDK, Gemini, LangChain, Streamlit, Multi-Agent Systems, Tool-calling, Voice Agents, Chatbots
+   - Use **colorful badges / highlight backgrounds** via Tailwind
+
+3. **Projects Section**:
+   - Project 1: “Tutor Chatbot for PDFs”
+     - Short description
+     - Placeholder screenshot / image
+     - **Embedded video player on the web page** (use local video file)
+     - GitHub link placeholder
+   - Project 2: “Voice Agent”
+     - Short description + placeholder image
+     - **Embedded video player**
+     - GitHub link placeholder
+   - Add 2–3 more placeholder projects for future expansion
+   - Use **bright Tailwind cards / hover effects / colorful buttons** for each project
+
+4. **Blogs Section**:
+   - Showcase **3–4 blog posts / previews**
+   - Each blog card includes: title, short description, and “Read more” button
+   - Use **bright Tailwind cards with hover effects**  
+   - Placeholder content easy to replace later
+
+5. **Contact Section**:
+   - Email, LinkedIn, GitHub links
+   - Optional: downloadable CV
+   - Use **highlighted Tailwind buttons / bright colors**
+
+6. **Footer**:
+   - Minimalist design
+   - Include copyright info or short tagline
+   - Keep it simple, clean, and professional
+
+7. **Design and Layout**:
+   - Clean, modern, easy navigation (Home, Skills, Projects, Blogs, Contact)
+   - Responsive for desktop and mobile using Tailwind classes
+   - Videos should play **directly on the website** using HTML video tag with controls
+
+8. **Output**:
+   - Complete **NestJS + Tailwind project structure** ready to run on Replit
+   - Structured folder for easy editing and updates
+   - Placeholder content/images/videos/blogs easy to replace later with real content
+
+Make it **bright, modern, professional, visually attractive**, with **embedded project videos, blog previews, and a minimalist footer**, while keeping navigation and readability simple.
